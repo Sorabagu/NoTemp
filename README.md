@@ -18,13 +18,13 @@
 
 ## Captures d'écran
 
-![Interface NoTemp](screenshot.png)
+![Interface NoTemp](https://github.com/Sorabagu/NoTemp/blob/main/screenshot.png?raw=true)
 
 ## Téléchargement
 
 Vous pouvez télécharger l'application en cliquant sur le lien ci-dessous :
 
-[➡ Télécharger NoTemp.exe](https://github.com/votre-utilisateur/NoTemp/releases/latest)
+[➡ Télécharger NoTemp](https://github.com/Sorabagu/NoTemp/releases/download/1.0/NoTemp_1.0.exe)
 
 > **Remarque :** Le programme s'exécute en tant qu'administrateur pour supprimer les fichiers temporaires système.
 
@@ -32,8 +32,8 @@ Vous pouvez télécharger l'application en cliquant sur le lien ci-dessous :
 
 ### Prérequis
 
-- Windows 10/11
-- Python 3.8 ou version ultérieure (si utilisation du script Python)
+- Windows 10/11 *pour l'exécutable*
+- Python 3.8 ou version ultérieure *si utilisation du script Python `main.py`*
 
 ## Problèmes connus
 
